@@ -1,0 +1,226 @@
+/* CSS Document */
+
+h1, h2, h3, h4, h5, h6, ul, li, a, blockquote, table, header, body, footer, nav, main  {
+    padding: 0;
+    margin: 0;
+/*    font-family:  */
+}
+.hnav {
+	width: 100%;
+	background-color: #11181e;
+	min-height: 70px;
+}
+header {
+background-color: #734F2F;
+    min-height: 300px;
+	background-image: url("../images/GraceBayBeach.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	border-bottom: solid medium #000819;
+	
+}
+h2 {  text-align: center;
+	font-size: 5em;
+	color: #162E32;
+	text-shadow: 20px;
+	font: bold; }
+.title{
+	text-align: center;
+	font-size: 10em;
+	color: #36C2DF;
+	text-shadow: 20px;
+	font: bold;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	
+}
+
+hnav {
+    padding: 10px 0;
+    background: #A68160 ;
+}
+
+.hnav ul {
+    display: block;
+    padding-left: 7px;
+}
+
+.hnav ul li {
+    display: inline-block;
+    list-style: none;
+	width: 18%;
+	text-align: center;
+}
+
+.hnav a {
+    color:#E4F2EA;
+    font-size: 1.8em;
+    padding: 0 1.3em;
+    text-decoration: none;
+	font-weight: bold;
+}
+
+.hnav a:hover {
+    color: #00302F;
+    text-decoration: none;
+	background-color: #FFFEFE;
+}
+
+body {
+	background-image: url("../BackroundForBody.png");
+/*	background-size: 1500px;*/
+	background-size: auto;
+		background-repeat: no-repeat;
+	
+}
+
+main h1{
+color:#E8FEFC;
+	font-style: italic;
+	font-size: 5.7em;
+	position: relative;
+	left: 12%;
+	border-color: 4px aqua;
+	
+}
+
+main p {
+	text-align: center;
+	color: aliceblue;
+	font-size: 1.5em;
+	font:bold;
+	width:50%;
+	float: left;
+	text-shadow: 2px 2px #000000 ;
+}
+
+main img {
+	float: right;
+	position: relative;
+	bottom: 50px;
+	right: 50px;
+	border: 17px double #3A444D;
+	border-radius: px;
+   
+	
+}
+
+.trunk {
+	font-size: 0.8em;
+	position: relative;
+	right: 10%
+	
+}
+
+.schoal {
+	font-size: 57px;
+	position: relative;
+	right: 2%;
+	
+}
+
+.graceby {
+	font-size: 50px;
+	position: relative;
+	width: 50%;
+	left: 5%
+}
+
+footer {
+	color: azure;
+	clear: both;
+    height: 150px;
+	background-color: #000D16;
+	
+}
+
+footer nav ul {
+    display: block;
+    float: right;
+}
+
+footer nav ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 1em;
+}
+
+footer nav ul li a {
+    color: #E4F2EA;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+    
+footer nav ul li a:hover {
+    color: #DBF0F8;
+    text-decoration: underline;
+}
+
+footer p {
+    clear: right;
+    float: right;
+    color: #E4F2EA;
+    font-weight: bold;
+    text-align: center;
+    margin: 2px;
+    margin-right: 50px;
+}
+
+
+
+.newsbody {
+	font-size: 300%;
+		font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+color: #162E32;
+	text-shadow: 2px 2px #000000 ;
+}
+
+.watterbat {
+	position: relative;
+	bottom: 7%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
