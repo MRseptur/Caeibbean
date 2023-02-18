@@ -67,7 +67,8 @@ hnav {
 }
 
 body {
-	background-image: url("../backroundForBody.png");
+	background-image: url("../images/backroundforbody.png")
+	/* background-image: url("../backroundforbody.png"); */
 /*	background-size: 1500px;*/
 	background-size: auto;
 		background-repeat: no-repeat;
